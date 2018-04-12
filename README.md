@@ -1,0 +1,3 @@
+From the Odin Project's Web Development Curriculum
+(http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+The first assignment of the Odin Project was to build a replica Google Homepage using html and css. This was built from scratch using the developer tools within google chrome to find correct dimensions, fonts, colors, and images in order to match the page as close as possible. Unfortunately, the page is not functional. That is a challenge for another day.
